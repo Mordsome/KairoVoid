@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MordoMordeczek/KairoVoid/releases/latest"><img src="https://img.shields.io/github/v/release/MordoMordeczek/KairoVoid?style=for-the-badge&label=download&color=a77cff&labelColor=0b0a14" alt="Download"></a>
+  <a href="https://github.com/Mordsome/KairoVoid/releases/latest"><img src="https://img.shields.io/github/v/release/Mordsome/KairoVoid?style=for-the-badge&label=download&color=a77cff&labelColor=0b0a14" alt="Download"></a>
   <img src="https://img.shields.io/badge/minecraft-26.3-a77cff?style=for-the-badge&labelColor=0b0a14" alt="Minecraft 26.3">
   <img src="https://img.shields.io/badge/loader-fabric-ff6ec7?style=for-the-badge&labelColor=0b0a14" alt="Fabric">
   <img src="https://img.shields.io/badge/needs-sodium-ff6ec7?style=for-the-badge&labelColor=0b0a14" alt="Needs Sodium">
@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <b>Everything <a href="https://github.com/MordoMordeczek/Kairo">Kairo</a> has, plus energy blades, impact shockwaves, nine atmospheres, a cosmic night sky and glowing crystals.</b><br>
+  <b>Everything <a href="https://github.com/Mordsome/Kairo">Kairo</a> has, plus energy blades, impact shockwaves, nine atmospheres, a cosmic night sky and glowing crystals.</b><br>
   Flat dark menus with one accent colour. Still visual and client-side only: no cheats, nothing extra sent to servers.
 </p>
 
 <p align="center">
-  <a href="https://github.com/MordoMordeczek/KairoVoid/releases/latest"><b>Download</b></a> ·
+  <a href="https://github.com/Mordsome/KairoVoid/releases/latest"><b>Download</b></a> ·
   <a href="#-install"><b>Install</b></a> ·
-  <a href="https://mordomordeczek.github.io/Kairo/#void"><b>Website</b></a> ·
-  <a href="https://github.com/MordoMordeczek/Kairo"><b>Kairo</b></a> ·
-  <a href="https://github.com/MordoMordeczek/Kairo/blob/main/docs/FEATURES.md#kairo-void"><b>Feature guide</b></a>
+  <a href="https://mordsome.github.io/Kairo/#void"><b>Website</b></a> ·
+  <a href="https://github.com/Mordsome/Kairo"><b>Kairo</b></a> ·
+  <a href="https://github.com/Mordsome/Kairo/blob/main/docs/FEATURES.md#kairo-void"><b>Feature guide</b></a>
 </p>
 
 <br>
@@ -64,7 +64,7 @@ HUD boxes can glow, go neon or pulse with a light running round them:
 
 <p align="center"><img src="docs/hud-styles.png" alt="Classic, Glow, Neon and Pulse HUD styles" width="100%"></p>
 
-Plus everything from Kairo: 25+ mods, the drag-and-drop HUD editor, PvP mode, cosmetics and 37 emotes. See the [Kairo page](https://github.com/MordoMordeczek/Kairo) for those.
+Plus everything from Kairo: 25+ mods, the drag-and-drop HUD editor, PvP mode, cosmetics and 37 emotes. See the [Kairo page](https://github.com/Mordsome/Kairo) for those.
 
 ## 📦 Install
 
@@ -72,7 +72,7 @@ Plus everything from Kairo: 25+ mods, the drag-and-drop HUD editor, PvP mode, co
 2. Put these in your `mods` folder:
    - [Fabric API](https://modrinth.com/mod/fabric-api) for 26.3
    - [Sodium](https://modrinth.com/mod/sodium) 0.9.x for 26.3 (required)
-   - `kairo-void-0.1.0.jar` from [Releases](https://github.com/MordoMordeczek/KairoVoid/releases/latest)
+   - `kairo-void-0.1.0.jar` from [Releases](https://github.com/Mordsome/KairoVoid/releases/latest)
 3. Start the game. A short setup runs the first time. In game, press **Right Shift**.
 
 **Kairo or Kairo Void, not both.** They use the same mod id. Void keeps its own settings in `config/kairo-void`.
@@ -90,7 +90,7 @@ Tested on Windows.
 
 ## 🔨 Source code
 
-Kairo Void is built from the same code as Kairo, which lives in the [Kairo repository](https://github.com/MordoMordeczek/Kairo). `./gradlew build` there makes both jars; `./gradlew runVoidClient` runs Void in a dev client.
+Kairo Void is built from the same code as Kairo, which lives in the [Kairo repository](https://github.com/Mordsome/Kairo). `./gradlew build` there makes both jars; `./gradlew runVoidClient` runs Void in a dev client.
 
 ## 🤖 Certified AI slop
 
@@ -98,6 +98,6 @@ Kairo Void is **100% vibecoded**, just like its sibling. I had the ideas, picked
 
 ## 📄 License
 
-Kairo Void is free software under the [GNU General Public License v3.0](LICENSE). Copyright © 2026 MordoMordeczek. The bundled fonts (Outfit, JetBrains Mono) are under the SIL Open Font License; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Kairo Void is free software under the [GNU General Public License v3.0](LICENSE). Copyright © 2026 Mordsome. The bundled fonts (Outfit, JetBrains Mono) are under the SIL Open Font License; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 <sub>Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft. Minecraft is a trademark of Mojang Synergies AB. Fabric and Sodium are separate projects with their own licences and are never bundled.</sub>
